@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punit Chotai</h1>
+<h1 align="center">Hi 🧑‍💻, I'm Punit Chotai</h1>
 <h3 align="center">A passionate AWS solution architect and Data Analyst also a full stack developer from the sphere of entertainment Indian subcontinent</h3>
 
 - 🌱 I’m currently learning **Django, Material UI(MUI)**
